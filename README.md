@@ -1,1 +1,1 @@
-handwritten digit recognition AI from scratch using Rust 
+# handwritten digit recognition AI from scratch using Rust 
